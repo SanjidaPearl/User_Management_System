@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sanjida 90",
+      "username": "pearl",
+      "email": "sanjida43@gmail.com",
+      "phone": "01613944601",
+      "website": "pearl.com"
+    },
+    {
+      "id": "3",
+      "name": "sadia",
+      "username": "Mumu",
+      "email": "sadia@gmail.com",
+      "phone": "01613944603",
+      "website": "Mumu.com"
+    },
+    {
+      "name": "Pearl",
+      "email": "pearl@gmail.com",
+      "phone": "01843084695",
+      "id": "4"
+    },
+    {
+      "id": "3912",
+      "name": "sdfg",
+      "email": "fdg@gmail.com",
+      "phone": "sdfg"
+    }
+  ]
+}
