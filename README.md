@@ -1,7 +1,7 @@
 # User Management System
 
 A full-stack **User Management System** built using **Laravel (REST API)** and **React.js**.  
-This project demonstrates CRUD operations, authentication concepts, search, pagination, and dashboard analytics.
+This project demonstrates CRUD operations, search, pagination, and dashboard analytics.
 
 ---
 
